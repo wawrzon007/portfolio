@@ -1,0 +1,1 @@
+Algorytm ElGamal to asymetryczny algorytm kryptograficzny wykorzystywany głównie do szyfrowania oraz podpisów cyfrowych. Bazuje on na trudności rozwiązywania problemu logarytmu dyskretnego w grupach multiplikatywnych, co zapewnia bezpieczeństwo danych. Algorytm ElGamal składa się z trzech głównych kroków: generowania kluczy, szyfrowania i deszyfrowania.

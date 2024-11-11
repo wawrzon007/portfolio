@@ -1,0 +1,1 @@
+Algorytm RSA (Rivest-Shamir-Adleman) jest jednym z najczesciej stosowanych algorytmow kryptograficznych do szyfrowania i uwierzytelniania
